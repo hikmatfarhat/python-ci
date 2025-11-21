@@ -21,8 +21,6 @@ torchvision
 triton
 wheel
 matplotlib
-usb-creator
 zipp
-pyserial
 Markdown
 louis
